@@ -1,1 +1,2 @@
 # JOURN124-HW4
+I selected the question "Is it rude to wake a passenger up if you are trying to go to the bathroom?" because it reveals fascinating social norms about personal space and courtesy in confined environments like airplanes. The dataset from FiveThirtyEight’s Flying Etiquette Survey is particularly interesting because it quantifies unspoken travel etiquette—showing how context (e.g., bathroom breaks vs. stretching legs) influences perceptions of rudeness.
