@@ -3,10 +3,10 @@ I selected the question "Is it rude to wake a passenger up if you are trying to 
 # What does the chart shows?
 My pie chart visualizes responses from 850 U.S. fliers:
 
-*63% said waking someone for bathroom breaks is not rude at all (n=535).
+*63% said waking someone for bathroom breaks is not rude at all (n=535).*
 
-33% considered it somewhat rude (n=281).
+*33% considered it somewhat rude (n=281).*
 
-Only 4% deemed it very rude (n=34).*
+*Only 4% deemed it very rude (n=34).*
 
 This reveals a clear majority tolerance for necessary disruptions, contrasting with stricter views on other behaviors (e.g., seat reclining, per FiveThirtyEight’s article).
